@@ -30,7 +30,12 @@ class Stack {
         top = newNode; // 4. Update the top pointer to the new node
         cout << "Push value: " << value << endl;
         return value;
-    } 
+    }
+
+    //pop operation: Remove the topmost element from the stack
+    void pop(){
+        
+    }
 
 };
 
