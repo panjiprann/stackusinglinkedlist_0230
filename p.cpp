@@ -41,6 +41,11 @@ class Stack {
         top = top->next; // update the top pointer to the next node
     }
 
+    // Peek/Top operation: Retrieve the value of the topmost element without removing it
+    void peek() {
+        
+    }
+
 };
 
 
