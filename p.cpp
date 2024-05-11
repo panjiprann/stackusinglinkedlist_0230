@@ -14,7 +14,7 @@ class Node {
 
 //stack class
 class Stack {
-    
+    private:
 }
 
 
